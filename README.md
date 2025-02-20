@@ -1,1 +1,1 @@
-# cs229
+A character-level Transformer trained on Tiny Shakespeare dataset using PyTorch. This repo includes a self-attention-based language model that generates Shakespeare-like text. Optimized for Colab with training logs, model implementation, and text generation outputs.
